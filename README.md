@@ -1,9 +1,15 @@
 ![github header](https://user-images.githubusercontent.com/55132964/193623767-6d0f16f5-9a0c-48e5-89b7-ebec35406a9d.png)
 
+
+
 <div align=center>
     <p> 👉 Number of visitors 👈</p>
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 </div>
+
+<div align=center>
+    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%Lee-SungMin%2Fhit-counter)](https://hits.seeyoufarm.com)
+</div>
+
 <br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -66,12 +72,16 @@
 
 <p> 👇 Read more 👇</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-SungMin&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-SungMin&layout=compact"><br>
 
 ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Lee-SungMin)
+
 <img src="https://github-readme-stats.vercel.app/api?username=Lee-SungMin&show_icons=true">
+
+</div>
 <br>
 
+<div align=center>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saevers3)](https://solved.ac/saevers3)
