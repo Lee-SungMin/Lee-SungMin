@@ -71,7 +71,8 @@
 <div align=center>
 <p> 👇 Read more 👇</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-SungMin&layout=compact"> ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Lee-SungMin)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-SungMin&layout=compact"> 
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Lee-SungMin)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Lee-SungMin&show_icons=true">
 
