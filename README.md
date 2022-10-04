@@ -20,6 +20,7 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=C++&logoColor=white" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
@@ -45,6 +46,7 @@
     <br>
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white" />
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2CC?style=flat&logo=PyTorch&logoColor=white" />
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
