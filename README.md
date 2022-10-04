@@ -7,7 +7,7 @@
 
 <br><p>🏆 Baekjoon solved rank 🏆</p>
 	
-<img src="http://mazandi.herokuapp.com/api?handle=saevers3&theme=warm"/> 
+<img src="http://mazandi.herokuapp.com/api?handle=saevers3&theme=warm"/><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saevers3)](https://solved.ac/saevers3)
 
 </div>
