@@ -8,6 +8,9 @@
 <br><p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saevers3)](https://solved.ac/saevers3)
+
+<img src="http://mazandi.herokuapp.com/api?handle=Lee-SungMin&theme=warm"/>
+
 </div>
 
 <div align=center>
@@ -70,16 +73,10 @@
 <div align=center>
 <p> 👇 Read more 👇</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-SungMin&layout=compact" align="left">
-
-<img src="http://mazandi.herokuapp.com/api?handle=saevers3&theme=warm"/>
-</div>
-
-<div align=center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-SungMin&layout=compact"><br>
 
 ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Lee-SungMin)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Lee-SungMin&show_icons=true">
 
 </div>
-
