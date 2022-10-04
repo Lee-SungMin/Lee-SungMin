@@ -56,10 +56,6 @@
 	<p> 💻 Learning 💻</p>
 </div>
 <div align=center>
-    <!--
-    <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat&logo=Apache Hadoop&logoColor=white" />
-    <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat&logo=Apache Hive&logoColor=white" />
-    -->
     <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat&logo=Apache&logoColor=white" />
     <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat&logo=Apache&logoColor=white" />
     <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat&logo=Apache Spark&logoColor=white" />
