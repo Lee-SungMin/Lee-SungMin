@@ -5,10 +5,6 @@
 <div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-SungMin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Number+of+visitors&edge_flat=false"/></a>
 
-<!--<br><p>🏆 Baekjoon solved rank 🏆</p>-->
-
-<!--<img src="http://mazandi.herokuapp.com/api?handle=saevers3&theme=warm"/>--> <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saevers3)](https://solved.ac/saevers3)-->
-
 </div>
 
 <div align=center>
